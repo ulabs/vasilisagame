@@ -1,2 +1,2 @@
 # vasilisagame
-vasilisa broweser game 
+vasilisa browser game 
